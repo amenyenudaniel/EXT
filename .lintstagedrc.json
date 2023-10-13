@@ -1,0 +1,6 @@
+{
+  "*.{js,jsx,ts,tsx}": [
+    "npm run check-format",
+    "git add"
+  ]
+}
